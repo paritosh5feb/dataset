@@ -1,0 +1,3 @@
+Files,Date.Range.Operation,Null.Operation,Roll.Adjustment,Include.Volume,Sorting.Method
+Input,2011-01-01 to 2022-03-11,Skip,Adjusted Gap,Yes,Ascending
+LCOc1-LCOc2,Success,Success,Success,Success,Success
